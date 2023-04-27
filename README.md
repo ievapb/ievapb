@@ -3,7 +3,7 @@
 -       business process/RPA manager (10+ years of project managing and process optimization) or
 -       software developer
 -       
-- 🌱 My current stack: Python, Django, PostgreSQL, MySQL, VisualFoxPro9
+- 🌱 My current stack: Python, Django, PostgreSQL, Sybase SQL Anywhere, VisualFoxPro9
 - 🌱 I use VSCode, Windows PowerShell, Anaconda, Spyder
 - 
 - 💞️ I’m looking to collaborate on projects that would help me hone my skills, get industry know-how from peers and build my portfolio
