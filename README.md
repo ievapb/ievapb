@@ -2,7 +2,7 @@
 
 👀 I’m interested in finding remote job as either:
 -    business process manager (10+ years in project and process management) or
--    software developer
+-    software developer (for entry/junior position)
        
        
 🌱 I'm working towards my stack: Python, Django, PostgreSQL
