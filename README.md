@@ -1,6 +1,6 @@
 👋 Hi, I’m Ieva Bareikė
 
-👀 I’m interested in finding remote job as either:
+👀 I’m interested in changing career to tech and looking for remote job as either:
 -    IT projects manager (10+ years in non-IT project management) or
 -    software developer (for entry/junior position)       
        
