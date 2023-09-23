@@ -1,9 +1,8 @@
 👋 Hi, I’m Ieva Bareikė
 
 👀 I’m interested in finding remote job as either:
--    IT projects manager (10+ years in project and process management) or
--    software developer (for entry/junior position)
-       
+-    IT projects manager (10+ years in non-IT project management) or
+-    software developer (for entry/junior position)       
        
 🌱 I'm working towards my stack: Python, Django, PostgreSQL
 
